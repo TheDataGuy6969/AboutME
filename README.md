@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedataguy6969" alt="thedataguy6969" /></a> </p>
 
-- 📝 I regularly write articles on [Data Engineering](Data Engineering)
+- 📝 I regularly write articles on #DataEngineering☕
 
 - 💬 Ask me about **Data Analyst and Data Engineering things**
 
