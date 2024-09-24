@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vyshakh VK (The Data Guy)</h1>
-<h3 align="center">👋 Data Analyst & Engineer transitioning to Data Scientist. Passionate about data insights, machine learning, and innovative solutions. Let's collaborate!</h3>
+<h3 align="center">👋 Data Analyst & Engineer who is looking for transitioning into Data Scientist. Passionate about data insights, machine learning, and innovative solutions. Let's collaborate!</h3>
 
 <img align="right" alt="data" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vyshakhvijaykumar98@gmail.com**
 
-- ⚡ Fun fact **I think I am Great Guy Great guy Great guy 🕵🏽 !!!!**
+- ⚡ Fun fact **I figure out my data analysis skill when I was preparing for my govt studies and I used to keep a count of how much time I studied,my gym routine and figuring out day to day tasks during my daily schedule 🕵🏽 !!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
