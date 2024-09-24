@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vyshakhvijaykumar98@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny Guy !!!!**
+- ⚡ Fun fact **I think I am Great Guy Great guy Great guy 🕵🏽 !!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
