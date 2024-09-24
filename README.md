@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **vyshakhvijaykumar98@gmail.com**
 
-- ⚡ Fun fact **I figure out my data analysis skill when I was preparing for my govt studies and I used to keep a count of how much time I studied,my gym routine and figuring out day to day tasks during my daily schedule 🕵🏽 !!!!**
+- ⚡ Fun fact **I figured out my passion for working into data analysis field during the time ,While I was preparing for my govt studies and I used to keep a count of how much time I studied,my gym routine and figuring out day to day tasks during my daily schedule 🕵🏽 !!!!**
+
+*Data is the New Gold 🥇*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
