@@ -13,7 +13,9 @@
 
 -⚡ Fun fact **I figured out my passion for working into data analysis field during the time ,While I was preparing for my govt studies and I used to keep a count of how much time I studied,my gym routine and figuring out day to day tasks during my daily schedule 🕵🏽 !!!!**
 
-- 🎒 Education Qualification - **Bsc-IT 2019 pass-out as Academic Topper with a CGPA - 9.75 🥇**
+- 🎒 Education Qualification - 
+
+**Bsc-IT 2019 pass-out as Academic Topper with a CGPA - 9.75 🥇**
 
 **Diploma In data Analytics from IIIT Bangalore - Academic Topper 🥇**
 
